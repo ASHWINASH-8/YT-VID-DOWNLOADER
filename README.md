@@ -2,6 +2,8 @@
 
 1.Create a folder and clone this github repo.
 git clone https://github.com/ASHWINASH-8/YT-VID-DOWNLOADER.git
+
+
 2.Create a folder downloads to store the videos.
 
 3.Run this in terminal: 
